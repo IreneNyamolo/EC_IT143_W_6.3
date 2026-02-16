@@ -1,0 +1,3 @@
+-- The last name appears after the space in the contact name.
+-- I will use SQL string functions to extract the text after the space.
+-- I will test using RIGHT and CHARINDEX functions.

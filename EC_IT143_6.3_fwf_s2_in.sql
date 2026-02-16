@@ -1,0 +1,3 @@
+-- I want to split the contact name.
+-- The first name is before the space.
+-- I will use SQL string functions to do this.

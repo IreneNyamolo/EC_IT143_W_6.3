@@ -1,0 +1,2 @@
+-- I researched SQL Server triggers.
+-- AFTER UPDATE triggers run after a record changes.

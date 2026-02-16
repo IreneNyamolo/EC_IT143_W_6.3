@@ -1,0 +1,3 @@
+-- I researched SQL string functions such as RIGHT, LEN, and CHARINDEX.
+-- These functions allow me to extract characters after a specific position.
+-- Source: Microsoft SQL Server documentation and W3Schools.

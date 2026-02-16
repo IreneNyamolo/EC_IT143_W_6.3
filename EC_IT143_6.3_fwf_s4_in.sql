@@ -1,0 +1,3 @@
+-- I researched SQL string functions like LEFT and CHARINDEX.
+-- They help extract text before the first space.
+-- Source: Microsoft SQL Server documentation.

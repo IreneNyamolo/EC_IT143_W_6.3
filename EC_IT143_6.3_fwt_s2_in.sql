@@ -1,0 +1,2 @@
+-- I want to update a column whenever a row changes.
+-- I will use a trigger.
